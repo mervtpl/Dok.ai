@@ -4,9 +4,13 @@
 
 
 ## Takım Üyeleri
-- [Ahmet Hakan Sütcü] – Product Owner  
-- [Merve Topal] – Scrum Master  
-- [Fatma Aydoğdu] – Developer  
+
+|  | İsim | Rol | LinkedIn |
+|---|---|---|---|
+| <img src="https://avatars.githubusercontent.com/u/117719846?v=4" width="100"/> | **Ahmet Hakan Sütcü** | Product Owner | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmethakansutcu/) |
+| <img src="https://avatars.githubusercontent.com/u/153943064?v=4" width="100"/> | **Merve Topal** | Scrum Master | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merveetopal11/) |
+| <img src="https://avatars.githubusercontent.com/u/56413015?v=4" width="100"/> | **Fatma Aydoğdu** | Developer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatmaaydogdu/) |
+
  
 
 ## Ürün İsmi
