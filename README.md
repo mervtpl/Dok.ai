@@ -48,7 +48,7 @@ Avrupa’da yapılan araştırmalar, düşük sağlık okuryazarlığının bire
 
 **Edison Research’e göre:**
 
- - Podcastler tüm nesillere ulaşıyor: 6-12 yaş aralığındaki çocukların %29'u, 12-34 yaş aralığındaki çocukların %59'u, 35-54 yaş aralığındaki çocukların %55'i ve 55+ yaş aralığındaki çocukların %27'si aylık podcast dinleyicisi.
+ - Podcastler tüm nesillere ulaşıyor: 6-12 yaş aralığındaki çocukların %29'u, 12-34 yaş aralığındaki kişilerin %59'u, 35-54 yaş aralığındaki kişilerin %55'i ve 55+ yaş aralığındaki kişilerin %27'si aylık podcast dinleyicisi.
   
  - Podcast'ler alıcı kitlelere ulaşır: Haftalık podcast dinleyicilerinin %46'sı bir podcast'te reklam duymanın sonucu olarak bir ürün veya hizmet satın almıştır. Podcasting sektörü, reklamverenlerin tüketicilerle eşleşmesine yardımcı olacak metriklere sahiptir.
 
