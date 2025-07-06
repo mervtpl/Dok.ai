@@ -12,7 +12,7 @@
 | <img src="https://avatars.githubusercontent.com/u/56413015?v=4" width="100"/> | **Fatma Aydoğdu** | Developer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatmaaydogdu/) |
 
 # Ürün İsmi
- **DOK.AI| Dijital Olarak Kayıtta**   
+ **DOK.AI - Dijital Olarak Kayıtta**   
 
  **Ürün Sloganı:** “Kendi sağlığının sesini duymaya hazır mısın?”
 
@@ -123,8 +123,7 @@ Kategorilere göre filtreleme: Diyabet, Kalp sağlığı, Psikolojik iyi oluş, 
 
 - Kullanıcı, ailesindeki bir kişi için ikinci bir profil oluşturabilir.
 - Bu profil için içerik dinleyebilir ve not alabilir.
-- 
-“Anne için bugün: Tansiyon takip rehberi” gibi bölümler.
+- “Anne için bugün: Tansiyon takip rehberi” gibi bölümler.
 
 **9 — AI Geri Bildirim Döngüsü (Öğrenen Sistem)**
 
@@ -161,6 +160,8 @@ Sağlık bilgisine erişimi sınırlı bireyler için mobil ve sesli çözümler
 # 📊 Product Backlog 
 <img width="1400" alt="Ekran Resmi 2025-07-06 21 07 52" src="https://github.com/user-attachments/assets/230fcca1-69e9-4d72-8d96-5db67aca50cc" />
 
+# Kanban Board
+<img width="1254" alt="13 → Kanban Board" src="https://github.com/user-attachments/assets/5ff7b3da-11a2-444f-8dbf-e5d99d17d507" />
 
 
 # 📑 I. Sprint Notları
