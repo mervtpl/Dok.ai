@@ -158,10 +158,21 @@ Podcast tüketimi genç yaş grubunda çok yaygın.
 Sağlık bilgisine erişimi sınırlı bireyler için mobil ve sesli çözümler kritik.
 
 # 📊 Product Backlog 
-<img width="800" alt="Ekran Resmi 2025-07-06 21 07 52" src="https://github.com/user-attachments/assets/230fcca1-69e9-4d72-8d96-5db67aca50cc" />
+
+<details>
+<summary><strong>Screenshot</strong></summary>
+ <img width="800" alt="Ekran Resmi 2025-07-06 21 07 52" src="https://github.com/user-attachments/assets/230fcca1-69e9-4d72-8d96-5db67aca50cc" />
+</details>
+
 
 # Kanban Board
+
+<details>
+<summary><strong>Screenshot</strong></summary>
 <img width="800" alt="13 → Kanban Board" src="https://github.com/user-attachments/assets/5ff7b3da-11a2-444f-8dbf-e5d99d17d507" />
+</details>
+
+
 
 
 # 📑 I. Sprint Notları
@@ -236,7 +247,15 @@ Günlük toplantılar, sprintin net hedefler doğrultusunda ilerlemesini sağlad
 
 Henüz geliştirme süreci başlamadığı için teknik engeller sınırlıydı; ancak iş yükü dağılımı ve odak noktaları arasında önceliklendirme konusu birkaç kez ekip içinde ele alındı.
 
+<details>
+<summary><strong>Screenshot</strong></summary>
+ 
 <img width="400" height="400" alt="2 → İlk Toplantı Zamanı" src="https://github.com/user-attachments/assets/fb5ec06a-b460-4c8a-9f13-af9182f3552a" />
+
+</details>
+
+
+
 
 
 ## 📑 Sprint Review - 1. Sprint Sonu Değerlendirmesi
@@ -355,9 +374,16 @@ Sprint 2 süresince takım, bireysel sorumluluklarına odaklı şekilde ilerlemi
 olarak gerçekleştirilememiştir, ancak ekip üyeleri arasında birebir iletişim sağlanmıştır. Bu sayede teknik
 geliştirmeler zamanında takip edilmiştir.
 
-
+<details>
+<summary><strong>Screenshotslar</strong></summary>
+ 
 <img width="600" height="600" alt="Ekran Resmi 2025-07-20 20 01 47" src="https://github.com/user-attachments/assets/963afaa5-d2d4-48fc-a8c7-0d4e751fb096" />
 <img width="600" height="600" alt="Ekran Resmi 2025-07-20 20 04 17" src="https://github.com/user-attachments/assets/cd35246b-6658-4aca-b041-4e36e6273ca0" />
+
+
+
+</details>
+
 
 
 
@@ -461,12 +487,20 @@ Teknik kararları hızlı kaydet: Notion “Decision Log” sayfası aç.
 **Sprint 3 Odak:** Seslendirme, Player, Kullanıcı Deneyimi.
 
 
-## 📊 Product Backlog 
+## 📊 Product Backlog
+<details>
+<summary><strong>Screenshot</strong></summary>
+
 
 <img width="900" src="https://github.com/user-attachments/assets/fd756570-2184-4480-a2cb-c1b714c83d19" />
 
+</details>
 
-## Ürünün Son Hali
+
+
+# 📱 Ürünün Son Hali
+<details>
+<summary><strong>Screenshotslar</strong></summary>
 
 <img width="300" src="https://github.com/user-attachments/assets/8b0ef9d9-cc2b-46cb-976a-0399978d68cf" />
 <img width="300" src="https://github.com/user-attachments/assets/1d20253d-aa15-4d93-aee8-9c30699965ec" />
@@ -474,6 +508,12 @@ Teknik kararları hızlı kaydet: Notion “Decision Log” sayfası aç.
 
 <img width="500" src="https://github.com/user-attachments/assets/2c8f9e92-5c3e-4839-ac52-77f093994f64" />
 <img width="500" src="https://github.com/user-attachments/assets/f11817e2-388d-4595-a611-e0c66bab550b" />
+
+
+</details>
+
+
+
 
 
 
