@@ -17,7 +17,7 @@
  **Ürün Sloganı:** “Kendi sağlığının sesini duymaya hazır mısın?”
 
 ## Ürün Logosu
-![DOK Aı](https://github.com/user-attachments/assets/fd3845f2-2718-48c4-99b4-b706ac2e2ee7)
+<img src="https://github.com/user-attachments/assets/fd3845f2-2718-48c4-99b4-b706ac2e2ee7" width="300" />
 
  
 ## Ürün Açıklaması: 🎙 Kişiselleştirilmiş Sağlık Podcast’leriyle Bilinçli Bir Gelecek
@@ -158,10 +158,10 @@ Podcast tüketimi genç yaş grubunda çok yaygın.
 Sağlık bilgisine erişimi sınırlı bireyler için mobil ve sesli çözümler kritik.
 
 # 📊 Product Backlog 
-<img width="1400" alt="Ekran Resmi 2025-07-06 21 07 52" src="https://github.com/user-attachments/assets/230fcca1-69e9-4d72-8d96-5db67aca50cc" />
+<img width="800" alt="Ekran Resmi 2025-07-06 21 07 52" src="https://github.com/user-attachments/assets/230fcca1-69e9-4d72-8d96-5db67aca50cc" />
 
 # Kanban Board
-<img width="1254" alt="13 → Kanban Board" src="https://github.com/user-attachments/assets/5ff7b3da-11a2-444f-8dbf-e5d99d17d507" />
+<img width="800" alt="13 → Kanban Board" src="https://github.com/user-attachments/assets/5ff7b3da-11a2-444f-8dbf-e5d99d17d507" />
 
 
 # 📑 I. Sprint Notları
@@ -236,6 +236,9 @@ Günlük toplantılar, sprintin net hedefler doğrultusunda ilerlemesini sağlad
 
 Henüz geliştirme süreci başlamadığı için teknik engeller sınırlıydı; ancak iş yükü dağılımı ve odak noktaları arasında önceliklendirme konusu birkaç kez ekip içinde ele alındı.
 
+<img width="400" height="400" alt="2 → İlk Toplantı Zamanı" src="https://github.com/user-attachments/assets/fb5ec06a-b460-4c8a-9f13-af9182f3552a" />
+
+
 ## 📑 Sprint Review - 1. Sprint Sonu Değerlendirmesi
 - **Sprint Amacı:**
 
@@ -299,5 +302,171 @@ Sprint Sonu Hazırlıkları: Review & Retrospective dokümantasyonu sprint süre
 bırakılmamalı.
 
 **Sonuç olarak,** Sprint 1 amacına ulaştı ve takımın iletişim, fikir üretimi ve stratejik planlama konularındaki uyumu Sprint 2 için güçlü bir temel oluşturdu. Geriye dönük analiz sonucunda, planlama süreçlerinde daha çevik ve karar odaklı olmamız gerektiğini fark ettik. Takım, bu içgörüleri Sprint 2’ye taşıyarak daha verimli bir geliştirme süreci yürütmeyi hedeflemektedir.
+
+
+
+# II. Sprint
+
+## 📑 II. Sprint Notları
+
+• Sprint 2, MVP teknik altyapısına odaklanmak üzere planlandı: kullanıcı hesap sistemi, veri saklama, AI
+içerik üretimi ve ses altyapısı hazırlıkları.
+
+• Gemini API bağlantısı tamamlandı; ilk test prompt’ları üzerinden örnek metin üretimi alındı.
+
+• Uygulama veri katmanı için **Firebase** entegrasyonu yapıldı.
+
+• Login / Signup ekranları geliştirilmeye başlandı; temel form alanları ve doğrulama akışı kuruluyor (UI
+tamamlanmak üzere).
+
+• Yapay zekâ içerik akışı ile kullanıcı profili verisini eşleştirmeye yönelik taslak veri şeması çıkarıldı.
+
+• Takvimsel gecikme yaşandı: kişisel işler nedeniyle düzenli Daily Scrum katılımı düşük kaldı; bazı planlı
+Sprint 2 backlog öğeleri (dinleme istatistikleri, gelişim paneli, bildirim sistemi vb.) tamamlanamadı.
+
+• Sprint sonunda “temel kimlik + veri + AI içerik bağlantısı” ayağa kaldırıldı; geri kalan işlevler Sprint 3’e
+taşındı ve yeniden puanlandı.
+
+ ## 📑 Tahmini Tamamlanacak Puan
+ 
+ **II. Sprint’in amacı**, uygulamanın temel teknik altyapısını oluşturmaktır. Bu Sprint boyunca uygulamanın
+kullanıcı kimlik sistemi (Auth), veri saklama yapısı (Database), ve içerik üretim motoru (AI API bağlantısı) gibi modüller üzerine çalışılmıştır.
+
+**Tahmini tamamlanacak puan: 200 / 200**
+
+**Gerçekleşen puan: 90 / 200**
+
+Gemini API bağlantısı ve örnek içerik üretimi
+
+Firebase Authentication kurulumu
+
+Firebase Database bağlantısı
+
+Login / Signup ekranlarının backend ile entegre edilmesi
+
+Sağlık profili şeması için temel taslak
+
+Sprint Board kurulumu ve ilerleyiş takibi
+
+Üretilemeyen modüller (TTS, Player, Bildirim) Sprint 3’e aktarılmıştır.
+
+## 📑 Daily Scrum
+Sprint 2 süresince takım, bireysel sorumluluklarına odaklı şekilde ilerlemiştir. Günlük toplantılar düzenli
+olarak gerçekleştirilememiştir, ancak ekip üyeleri arasında birebir iletişim sağlanmıştır. Bu sayede teknik
+geliştirmeler zamanında takip edilmiştir.
+
+
+<img width="600" height="600" alt="Ekran Resmi 2025-07-20 20 01 47" src="https://github.com/user-attachments/assets/963afaa5-d2d4-48fc-a8c7-0d4e751fb096" />
+<img width="600" height="600" alt="Ekran Resmi 2025-07-20 20 04 17" src="https://github.com/user-attachments/assets/cd35246b-6658-4aca-b041-4e36e6273ca0" />
+
+
+
+**Ana Odaklar:**
+
+•Gemini API bağlantısının test edilmesi ve içerik üretim sistemine entegre edilmesi
+
+•Firebase Authentication ile kullanıcı yönetiminin başlatılması
+
+•Firebase Realtime Database bağlantısının kurulması
+
+•Login ve Signup sayfalarının tasarımı ve işlevselliği
+
+**Zorluklar:**
+
+Kişisel iş yoğunluğu nedeniyle tam takım senkronizasyonu sınırlı kalmıştır. Ancak bu eksiklik Sprint 3'te daha
+sıkı iletişim ve toplantılarla giderilecektir.
+
+## 📑 Sprint Review - 2. Sprint Sonu Değerlendirmesi
+
+### Sprint Amacı:
+
+i. Temel teknik altyapının oluşturulması
+
+ii. Yapay zekâ sisteminin (Gemini API) projeye entegrasyonu
+
+iii. Veritabanı altyapısının (Firebase DB) kurulumu
+
+iv. Kullanıcı kimlik yönetimi (Login – Signup) için Authentication sisteminin geliştirilmesi
+
+v. Uygulama giriş arayüzlerinin (Login – Signup ekranları) oluşturulmaya başlanması
+
+**Geliştirme Potansiyeli ve Ek Vizyoner Fikirler**
+
+Sprint 2 sürecinde ürünün teknik temelleri atılırken, içerik üretiminin kalitesini ve kullanıcı deneyimini
+geliştirebilecek bazı özelliklerin MVP sonrası için uygulanabilir olduğu öngörüldü:
+
+**→ “Sağlık Profili Genişletme” Paneli**
+
+Kullanıcının sadece temel bilgileri değil; sosyal alışkanlıklar, stres düzeyi, günlük yaşam ritmi gibi bilgilerle zenginleştirilmiş bir sağlık profili oluşturması sağlanabilir. Bu veri yapısı, kişiselleştirmeyi daha güçlü hâle getirir.
+
+**→ “Aile Modülü” – Bakım Verenler için İkincil Profil**
+
+Yaşlı ya da çocuk bireyler adına içerik dinleyen kullanıcılar için ikinci bir dinleme profili oluşturulabilir. “Bugün Anneniz için içerik hazır” gibi bildirimlerle desteklenebilir.
+
+**→ “Hekim Destekli İçerik Onayı” Sistemi**
+
+Podcast içeriklerinin kalite ve doğruluğunu artırmak amacıyla, sağlık profesyonelleri tarafından gözden
+geçirilmiş ve onaylanmış içerikler ayrı etiketle sunulabilir. Bu sayede bilgi güvenilirliği artırılır.
+Sprint 3’te bu genişleme fikirlerinden bazıları entegre edilerek, ürünün kullanıcı değeri ve sektörel fark
+yaratma potansiyeli daha da güçlendirilecektir.
+
+## 📑 Sprint Retrospective
+
+Sprint Review sonrası takım retrospektif oturum yaptı. Aşağıda çıkan başlıklar Sprint 3 iyileştirmeleri için
+temel alınacak.
+
+### Neler İyi Gitti?
+
+Kritik teknik riskler erkenden ele alındı (Auth, DB, Gemini).
+
+Geliştirici ortamı kuruldu; takım şimdi daha hızlı ilerleyebilir.
+
+Asenkron iletişim modeliyle tamamen durma yaşanmadı.
+
+### Neler Zorladı?
+
+Kişisel iş yoğunluğu nedeniyle düzenli Daily Scrum yapılamadı; bu bazı belirsizliklere yol açtı.
+
+Görevlerin boyutu Sprint planından büyük çıktı; kapasite hesaplamasında hata.
+
+UI/UX işlerinin gecikmesi, sonraki görevleri blokladı.
+
+### Neleri Geliştirebiliriz?
+
+Sprint 3 için daha küçük, bitebilir görevler tanımla (örn. “Signup UI → Alan validasyonu → Test” şeklinde
+parçala).
+
+Tüm takım için haftada en az 2 zorunlu senkron toplantı saatini takvime kilitle.
+
+“Tamamlandı” tanımını netleştir: backend + UI + test olmadan Done değil.
+
+Teknik kararları hızlı kaydet: Notion “Decision Log” sayfası aç.
+
+### Aksiyon Maddeleri (Sprint 3’e taşınan):
+
+1. TTS entegrasyonu → Öncelik 1
+2. Player UI + basit kontrol → Öncelik 1
+3. Sağlık profili formu → MVP gereği zorunlu
+4. Daily Scrum takvimi otomatik hatırlatmalı kurulacak
+5. Sprint kapasitesi puan bazlı yeniden hesaplanacak (200 plan yerine gerçekçi kapasite)
+
+**Sonuç olarak,**
+
+**Sprint 2:** 90 / 200 puan tamamlandı.
+
+**Bloklayıcılar:** Zaman, kişisel yükümlülükler, öncelik değişimi.
+
+**Kazanımlar:** AI içerik motoru + Auth + DB temel katmanı.
+
+**Sprint 3 Odak:** Seslendirme, Player, Kullanıcı Deneyimi.
+
+
+## 📊 Product Backlog 
+
+<img width="900" src="https://github.com/user-attachments/assets/fd756570-2184-4480-a2cb-c1b714c83d19" />
+
+
+## Ürünün Son Hali
+
 
 
