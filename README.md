@@ -375,7 +375,7 @@ olarak gerçekleştirilememiştir, ancak ekip üyeleri arasında birebir iletiş
 geliştirmeler zamanında takip edilmiştir.
 
 <details>
-<summary><strong>Screenshotslar</strong></summary>
+<summary><strong>Screenshot</strong></summary>
  
 <img width="600" height="600" alt="Ekran Resmi 2025-07-20 20 01 47" src="https://github.com/user-attachments/assets/963afaa5-d2d4-48fc-a8c7-0d4e751fb096" />
 <img width="600" height="600" alt="Ekran Resmi 2025-07-20 20 04 17" src="https://github.com/user-attachments/assets/cd35246b-6658-4aca-b041-4e36e6273ca0" />
@@ -500,7 +500,7 @@ Teknik kararları hızlı kaydet: Notion “Decision Log” sayfası aç.
 
 # 📱 Ürünün Son Hali
 <details>
-<summary><strong>Screenshotslar</strong></summary>
+<summary><strong>Screenshot</strong></summary>
 
 <img width="300" src="https://github.com/user-attachments/assets/8b0ef9d9-cc2b-46cb-976a-0399978d68cf" />
 <img width="300" src="https://github.com/user-attachments/assets/1d20253d-aa15-4d93-aee8-9c30699965ec" />
