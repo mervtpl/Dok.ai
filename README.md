@@ -468,5 +468,15 @@ Teknik kararları hızlı kaydet: Notion “Decision Log” sayfası aç.
 
 ## Ürünün Son Hali
 
+<img width="300" src="https://github.com/user-attachments/assets/8b0ef9d9-cc2b-46cb-976a-0399978d68cf" />
+<img width="300" src="https://github.com/user-attachments/assets/1d20253d-aa15-4d93-aee8-9c30699965ec" />
+<img width="300" src="https://github.com/user-attachments/assets/e00fab51-de7b-4b14-bb24-873f3cb426d8" />
+
+<img width="500" src="https://github.com/user-attachments/assets/2c8f9e92-5c3e-4839-ac52-77f093994f64" />
+<img width="500" src="https://github.com/user-attachments/assets/f11817e2-388d-4595-a611-e0c66bab550b" />
+
+
+
+
 
 
