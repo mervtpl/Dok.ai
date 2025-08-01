@@ -15,9 +15,9 @@ firebase_admin.initialize_app(cred, {
 
 # Google Gemini API bağlantısı
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
-model = genai.GenerativeModel("models/gemini-pro")
+model = genai.GenerativeModel("models/gemini-1.5-flash-latest")
 
-def get_diseasename_from_db(path="/2"):
+def get_diseasename_from_db(path="/"):
     """
     Firebase'den disease adını alır
     """
@@ -31,6 +31,14 @@ def create_text_from_disease(diseasename):
     """
     Gemini kullanarak bilgilendirici metin üretir
     """
-    prompt = f"{diseasename} hastalığı hakkında bilgilendirici bir podcast metni ver."
+    prompt = f"{diseasename} hastalığı hakkında bilgilendirici bir monolog metni ver podcaste dönüştüreceğimiz için içinde hitaplar ve parantezli içerikler bulunmasın  ."
     response = model.generate_content(prompt)
     return response.text
+
+if __name__ == "__main__":
+    disease_name = get_diseasename_from_db()
+    if disease_name:
+        text = create_text_from_disease(disease_name)
+        print(f"Üretilen metin:\n{text}")
+    else:
+        print("Firebase'de hastalık adı bulunamadı.")
