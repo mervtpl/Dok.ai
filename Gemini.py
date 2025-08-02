@@ -31,7 +31,7 @@ def create_text_from_disease(diseasename):
     """
     Gemini kullanarak bilgilendirici metin üretir
     """
-    prompt = f"{diseasename} hastalığı hakkında bilgilendirici bir monolog metni ver podcaste dönüştüreceğimiz için içinde hitaplar ve parantezli içerikler bulunmasın  ."
+    prompt = f"{diseasename} hastalığı hakkında bilgilendirici bir monolog metni ver podcaste dönüştüreceğimiz için içinde hitaplar ve parantezli içerikler bulunmasın maximum 1 dakikalık olsun ."
     response = model.generate_content(prompt)
     return response.text
 
