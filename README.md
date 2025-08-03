@@ -513,7 +513,183 @@ Teknik kararları hızlı kaydet: Notion “Decision Log” sayfası aç.
 </details>
 
 
+# III. Sprint:
 
+## 📑 III. Sprint Notları
+
+Bu Sprint, ürünün **teslim edilebilir bir minimum uygulanabilir ürüne (MVP)** dönüşmesini sağlamaya
+çalıştığımız final sprintidir. Bu sprintte, kullanıcı deneyiminin son hâli oluşturulmuş, tüm temel işlevler
+canlıya alınmış, prototip tamamlanmış ve proje kapanışı için gerekli dokümantasyonlar hazırlanmıştır.
+Bu sprint boyunca teknik geliştirme ve uygulama içi fonksiyonlar**Merve Topal** ve **Fatma Aydoğdu**
+tarafından başarıyla yürütülmüştür. Arayüzden API bağlantılarına, kullanıcı giriş sisteminden içerik
+oynatıcısına kadar pek çok modül aktif şekilde devreye alınmıştır.
+Proje dökümantasyonu, Product Backlog’un son hâli, sunum içerikleri ve sprint kayıtları ise **Ahmet
+Hakan Sütcü** tarafından hazırlanmış ve düzenlenmiştir.
+Ürünün son hâli tanıtım videosuyla birlikte teslim edilmiştir.
+
+## 📑 Tahmini Tamamlanacak Puan
+
+III. Sprint’in temel amacı, uygulamayı sunuma hazır hale getirmekti. Kodlama odaklı bu sprintte birçok
+temel bileşen çalışır duruma getirildi ve ürün tanıtımı için sunum materyali oluşturuldu. Bir önceki
+Sprint’lerde teknik ve zorlu olduğu tespit edilmiş. 3. Sprint sonunda puanlama ve görevler
+düzenlenmiştir. II. Sprint sonunda tamamlanamayan kısımlar bu sprint sonunda basitleştirilmiş halde
+tamamlanmıştır.
+
+**Tahmini tamamlanacak puan: 130 / 130**
+
+Podcast oynatıcı UI
+
+Dinleme başlatma kayıt sistemi
+
+Favori ekleme ve geri bildirim
+
+Gelişim skoru hesaplama sistemi
+
+Text-to-Speech demo senaryosu
+
+Kategori etiketleme ve içerik bağlantısı
+
+Ürün tanıtım videosu hazırlanması
+
+Temel UI düzenlemeleri
+
+## 📊 Product Backlog
+
+<details>
+<summary><strong>Screenshot</strong></summary>
+
+
+<img width="900" src="https://github.com/user-attachments/assets/521d037a-625e-43e1-b6e5-a5186e9bbe19" />
+
+</details>
+
+
+
+## 📑 Daily Scrum
+
+Bu sprintte günlük toplantılar yerine esnek ve anlık geri bildirimlerle ilerleme sağlandı. WhatsApp
+üzerinden sürdürülen iletişim sayesinde gelişmeler hızlıca aktarılmış, her ekip üyesi kendi görevlerini
+Notion üzerinden güncellemiştir. Fiziksel toplantılar yerine dijital iş birliği ve çözüm odaklı ilerleme ön
+planda tutulmuştur.
+
+## 📑 Sprint Review - 3. Sprint Sonu Değerlendirmesi
+
+Ürünün fonksiyonel olarak tamamlandığı bu sprintte:
+
+-Kullanıcı kayıt ve giriş sistemi sorunsuz çalışmaktadır.
+
+-Kullanıcı profiline göre kişiselleştirilmiş içerik üretimi başarıyla sağlanmaktadır.
+
+-Podcast’ler dinlenebilir formatta sunulmakta, favorilere eklenebilmekte ve kategorilere göre
+sınıflandırılabilmektedir.
+
+-Geri bildirim sistemleriyle kullanıcı davranışları izlenebilmekte ve skor bazlı analiz
+yapılabilmektedir.
+
+-Tanıtım videosu hazırlanmış ve proje jürisine sunulmaya hazır hâle getirilmiştir.
+
+Bu sprintte ürün, yalnızca teknik olarak değil; aynı zamanda hedef kitleye sunulabilecek seviyeye
+gelmiş **tamamlanmış bir MVP** niteliği kazanmıştır.
+
+## 📑 Sprint Retrospective
+
+**Başarılar:**
+
+-Ürünün tüm temel bileşenlerinin tamamlanması
+
+-Teknik zorlukların ekip içinde hızlıca çözülmesi
+
+-Kapanış sunumunun ve tanıtım videosunun başarıyla hazırlanması
+
+-Notion üzerinden düzenli iş takibiyle iş bölümünün net şekilde yapılması
+
+**Zorluklar:**
+
+-Kişisel iş yoğunlukları nedeniyle sınırlı toplantı yapılabilmesi
+
+-Bazı modüllerin geliştirme sürecinde entegrasyon hatalarıyla karşılaşılması
+
+**Öğrenilenler ve İyileştirme Önerileri:**
+
+Dijital iletişim araçlarının proje yönetiminde ne kadar etkili olduğu deneyimlenmiştir
+API kullanımı ve yapay zekâ içerik entegrasyonu konularında ekip genelinde bilgi seviyesi artmıştır
+Gelecekteki projeler için fiziksel toplantı planlamasının erken yapılmasının faydalı olacağı
+görülmüştür
+
+## 📑 Son Söz
+**Farkındayız:** Sağlıkta Fark Etmek, İlk Adımdır
+
+Her şey bir soruyla başladı:
+
+**“Sağlığın sesini herkes duyabiliyor mu?”**
+
+Cevap belliydi. Hayır.
+
+Ve biz bunu gördüğümüz an fark ettik.
+
+Bu sadece bir uygulama geliştirme süreci değil, bir toplumsal ihtiyacın ses bulmasıydı.
+
+**Dok AI**, kişiselleştirilmiş sağlık podcast’leri üreten yapay zekâ destekli bir mobil uygulama.
+Ama bu tanım yetmez. Çünkü Dok AI, bilgiyi sadeleştiren, empatiyle anlatan ve insanı odağına alan bir
+bilinç platformudur.
+
+Biz bu süreçte şunu öğrendik:
+
+**-Bir ürün sadece işlevsel değil, duygusal da olmalı.**
+
+**-Kodların arkasında bir niyet varsa, teknoloji gerçekten hayat kurtarabilir.**
+
+**-Kullanıcıyı anlamadan tasarlanan hiçbir sistem sürdürülebilir değildir.**
+
+**-Ve en önemlisi: Basitlik, erişilebilirlik ve empati bir ürünün kalbinde olmalıdır.**
+
+Takım olarak:
+
+**Merve Topal** ve **Fatma Aydoğdu**, yazılım geliştirme sürecinde büyük bir emekle front-end ve
+back-end taraflarını şekillendirdiler.
+
+**Ahmet Hakan Sütcü**, ürün vizyonunun netleşmesi, içerik üretimi, araştırma ve süreç
+koordinasyonuna liderlik etti.
+
+İletişimimizin çoğunu günlük hayatın temposu içinde, WhatsApp üzerinden sağladık.
+
+Ama hiçbir zaman **neden bu işi yaptığımızı** unutmadık.
+
+Çünkü biz, sadece uygulama geliştirmedik.
+
+Biz, **“farkındalık” geliştirdik.**
+
+Ve tam da bu yüzden takım ismimiz: **Farkındayız.**
+
+Çünkü;
+
+Farkındayız ki, sağlık bilgisi karmaşık bir duvar olmamalı.
+
+Farkındayız ki, ses bazen bir ekrandan çok daha güçlü olabilir.
+
+
+Farkındayız ki, teknoloji doğru kullanıldığında herkes için bir fırsata dönüşebilir.
+
+**Dok AI**, Türkiye’de sağlık okuryazarlığı eksikliğinden doğan sessizliğe bir yanıt.
+
+Yaşlılar, kronik hastalar, yeni ebeveynler ya da sağlıkla ilgilenmek isteyen herkes için anlaşılır, sıcak ve
+güvenli bir ses.
+
+Ve bugün bu sesi teslim ediyoruz.
+
+Sonuç mu?
+Bir grup genç geliştirici, bir sorun gördü ve onun çözümüne odaklandı.
+
+Üstelik bunu yaparken;
+
+Takım çalışmasının önemini,
+
+Gerçek kullanıcı sorunlarını anlamanın değerini,
+
+Ve teknolojinin insanlığa nasıl dokunabileceğini bizzat deneyimledi.
+
+Bu süreçte destekleriniz ve bu anlamlı işler için liderlik ettiğiniz için tüm **Yapay Zeka ve Teknoloji
+Akademisi** üyelerine teşekkürlerimizi sunuyoruz.
 
 
 
