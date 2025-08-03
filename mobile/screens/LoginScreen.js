@@ -16,7 +16,8 @@ export default function LoginScreen({ navigation }) {
     setLoading(true);
     try {
       await signInWithEmailAndPassword(auth, email, password);
-      navigation.replace('Podcast'); // Giriş başarılıysa Podcast ekranına yönlendir
+      // Başarılı giriş sonrası drawer navigator'a geçiş
+      navigation.replace('MainApp');
     } catch (error) {
       Alert.alert('Hata', error.message);
     } finally {
